@@ -1,1 +1,1 @@
-#Flikr Searcher
+#Flickr Searcher
